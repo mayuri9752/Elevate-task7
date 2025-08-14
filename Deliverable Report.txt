@@ -1,0 +1,14 @@
+Deliverable Report:
+Browser: Google Chrome
+Date: August 14, 2025
+Steps Taken:
+1. Opened chrome://extensions/
+2. Reviewed 3 installed extensions
+3. Checked permissions and Chrome Web Store reviews
+4. Identified 1 unnecessary and 1 suspicious extension.
+5. Removed 2 extensions.
+6. Restarted browser and noticed improved startup speed.
+7. Researched impact of malicious extensions
+8. Suspicious/Unnecessary Extensions Removed:
+-> PDFConverterPro- Unfamiliar, required access to all sites, bad reviews.
+-> Grammarly for Google Docs (unused): Not currently used, removed to reduce clutter.
